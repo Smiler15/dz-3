@@ -1,0 +1,63 @@
+{
+  "students": [
+    {
+      "id": 0002,
+      "first name": "Nicholas",
+      "last name": "Samson",
+      "gender": "M",
+      "age": 19,
+      "height": 1.8,
+      "married": false,
+      "contact information": [
+        {
+          "e-mail": "nick@gmail.com"
+        },
+        {
+          "phone number": [
+            {
+              "primary": "+38(079)886435"
+            },
+            {
+              "secondary": "+38(059)670534"
+            }
+          ]
+        }
+      ],
+      "classes": [
+        "football",
+        "art"
+      ],
+      "membership": "false"
+    },
+    {
+      "id": 0001,
+      "first name": "Emilia",
+      "last name": "Krasikova",
+      "gender": "F",
+      "age": 18,
+      "height": 1.65,
+      "married": false,
+      "contact information": [
+        {
+          "e-mail": "em@gmail.com"
+        },
+        {
+          "phone number": [
+            {
+              "primary": "+38(088)886556"
+            },
+            {
+              "secondary": null
+            }
+          ]
+        }
+      ],
+      "classes": [
+        "gimnastics",
+        "art"
+      ],
+      "membership": true
+    }
+  ]
+}
+

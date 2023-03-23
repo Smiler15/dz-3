@@ -25,7 +25,7 @@ students:
     contact information:
       - e-mail: em@gmail.com
       - phone number:
-          - primary: +38(089)886556
+          - primary: +38(099)886556
           - secondary: null
     classes: [gimnastics, art]
     membership: true

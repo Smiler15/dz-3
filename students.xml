@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <students>
+    <id>2</id>
+    <gender>M</gender>
+    <age>19</age>
+    <height>1.8</height>
+    <married>false</married>
+    <classes>football</classes>
+    <classes>art</classes>
+    <membership>false</membership>
+    <first_name>Nicholas</first_name>
+    <last_name>Samson</last_name>
+    <contact_information>
+      <e-mail>nick@gmail.com</e-mail>
+    </contact_information>
+    <contact_information>
+      <phone_number>
+        <primary>+38(079)886435</primary>
+      </phone_number>
+      <phone_number>
+        <secondary>+38(059)670534</secondary>
+      </phone_number>
+    </contact_information>
+  </students>
+  <students>
+    <id>1</id>
+    <gender>F</gender>
+    <age>18</age>
+    <height>1.65</height>
+    <married>false</married>
+    <classes>gimnastics</classes>
+    <classes>art</classes>
+    <membership>true</membership>
+    <first_name>Emilia</first_name>
+    <last_name>Krasikova</last_name>
+    <contact_information>
+      <e-mail>em@gmail.com</e-mail>
+    </contact_information>
+    <contact_information>
+      <phone_number>
+        <primary>+38(099)886556</primary>
+      </phone_number>
+      <phone_number>
+        <secondary/>
+      </phone_number>
+    </contact_information>
+  </students>
+</root>
+
