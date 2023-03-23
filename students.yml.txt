@@ -1,6 +1,6 @@
 students:
 
-  - id: 0002
+  - id: 0001
     first name: Nicholas
     last name: Samson
     gender: M
@@ -15,7 +15,7 @@ students:
     classes: [football, art]
     membership: false
 
-  - id: 0001
+  - id: 0002
     first name: Emilia
     last name: Krasikova
     gender: F

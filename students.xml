@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <root>
   <students>
-    <id>2</id>
+    <id>1</id>
     <gender>M</gender>
     <age>19</age>
     <height>1.8</height>
@@ -24,7 +24,7 @@
     </contact_information>
   </students>
   <students>
-    <id>1</id>
+    <id>2</id>
     <gender>F</gender>
     <age>18</age>
     <height>1.65</height>
